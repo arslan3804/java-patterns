@@ -1,5 +1,7 @@
 package practice1;
 
+import java.util.Comparator;
+
 public class Main {
     public static void main(String[] args){
         Comparator<Integer> comparator = (a, b) -> {
